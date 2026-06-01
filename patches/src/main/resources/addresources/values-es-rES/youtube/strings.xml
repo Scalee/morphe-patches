@@ -511,9 +511,9 @@ Deben proporcionarse 'Cookies de subtítulos'"</string>
   <!-- 'Create' has no display name. Translate normally. -->
   <string name="morphe_hide_create_button_title">Ocultar botón \"Crear\"</string>
   <!-- 'Subscriptions' should be translated using the same localized wording YouTube displays for the tab. -->
-  <string name="morphe_hide_subscriptions_button_title">Cuando está activado, pulsar abre los ajustes de Morphe y mantener pulsado abre los ajustes de YouTube, desactivar para intercambiar</string>
+  <string name="morphe_hide_subscriptions_button_title">Ocultar botón \"Suscribirme\"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
-  <string name="morphe_hide_notifications_button_title">Desactiva el sombreado oscuro que rodea los controles del reproductor de vídeo</string>
+  <string name="morphe_hide_notifications_button_title">Ocultar el botón de notificación</string>
   <string name="morphe_show_search_button_title">Ocultar botón Ajustes</string>
   <string name="morphe_show_search_button_index_title">Gestione la visibilidad del modo Ambiente y las restricciones de energía</string>
   <string name="morphe_show_settings_button_title">Permite que el modo Ambiente permanezca activo en el modo de ahorro de batería</string>

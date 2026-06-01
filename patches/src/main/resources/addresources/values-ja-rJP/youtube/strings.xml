@@ -294,7 +294,7 @@ YouTube Doodle が表示されていると、カスタマイズしたヘッダ�
   <string name="morphe_external_downloader_action_button_title">オフライン ボタンの動作を上書き</string>
   <string name="morphe_external_downloader_action_button_summary">オフライン ボタンの呼び出し先を、「YouTube 内蔵のダウンロード機能」から「設定した外部ダウンローダー」に変更します</string>
   <string name="morphe_external_downloader_name_title">外部ダウンローダーのパッケージ名</string>
-  <string name="morphe_external_downloader_name_summary">インストール済みの外部ダウンローダー アプリのパッケージ名</string>
+  <string name="morphe_external_downloader_name_summary">インストール済みの外部ダウンロード アプリのパッケージ名</string>
   <string name="morphe_external_downloader_other_item_hint">パッケージ名を入力してください</string>
   <string name="morphe_external_downloader_other_item">その他</string>
   <string name="morphe_external_downloader_not_found_title">アプリがインストールされていません</string>
